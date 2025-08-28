@@ -1,0 +1,11 @@
+Model Information:
+* title:	Eyewear (Specs)
+* source:	https://sketchfab.com/3d-models/eyewear-specs-bb1a41bb9d4d412c985ba1492985e90f
+* author:	rojencha (https://sketchfab.com/rojencha)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Eyewear (Specs)" (https://sketchfab.com/3d-models/eyewear-specs-bb1a41bb9d4d412c985ba1492985e90f) by rojencha (https://sketchfab.com/rojencha) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
