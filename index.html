@@ -146,12 +146,10 @@
         /* Hero Section - Updated with Video Background */
         .hero {
             position: relative;
-            height: 100vh;
+            height: 70vh; /* Reduced height */
             width: 100%;
             display: flex;
             align-items: center;
-            justify-content: center;
-            text-align: center;
             overflow: hidden;
         }
         
@@ -179,8 +177,10 @@
         
         .hero-content {
             max-width: 1200px;
-            padding: 0 20px;
+            padding: 0 40px; /* Increased left padding */
             z-index: 1;
+            text-align: left; /* Align text to left */
+            margin-right: auto; /* Push to left side */
         }
         
         .hero h1 {
@@ -192,9 +192,7 @@
         .hero p {
             font-size: 20px;
             margin-bottom: 30px;
-            max-width: 700px;
-            margin-left: auto;
-            margin-right: auto;
+            max-width: 500px; /* Reduced max-width */
             text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
         }
         
@@ -228,6 +226,7 @@
                 background-position: center;
                 padding: 80px 20px;
                 color: white;
+                height: 60vh; /* Adjusted for mobile */
             }
             
             .hero h1 {
@@ -238,11 +237,16 @@
             .hero p {
                 font-size: 18px;
                 color: white;
+                max-width: 100%;
             }
 
+            .hero-content {
+                padding: 0 20px;
+                text-align: center; /* Center on mobile */
+            }
         }
         .hero-content{
-            color: rgb(238, 238, 171);
+            color: rgb(248, 248, 238);
         }
         
         /* Controls for browsers that block autoplay */
@@ -492,7 +496,7 @@
         <div class="container">
             <div class="top-header">
                 <a href="#" class="logo">
-                    <i class="fas fa-glasses"></i>
+                    <!-- <i class="fas fa-glasses"></i> -->
                     AddSub
                 </a>
                 <div class="search-bar">
